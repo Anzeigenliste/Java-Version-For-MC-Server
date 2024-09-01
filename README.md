@@ -6,7 +6,9 @@ A list of Java versions for the specific Minecraft-Server version.
 
 Minecraft Vanilla/Spigot/Paper/Forge 1.20.5+
 > Java 21
-Minecraft Vanilla/Spigot/Paper/Forge 1.18+
+
+Minecraft Vanilla/Spigot/Paper/Forge rgb(9, 105, 218)1.18+
 > Java 17
+
 Minecraft Vanilla/Spigot/Paper/Forge 1.17+
 > Java 16
